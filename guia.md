@@ -8,6 +8,7 @@
   - [4. Comando info](#4-comando-info)
   - [5. Comparativa de comandos](#5-comparativa-de-comandos)
   - [6. Recursos adicionales](#6-recursos-adicionales)
+  - [7. Otros comandos interesantes](#7-otros-comandos-interesantes)
 ---
   
 ## 1. Introducción
@@ -86,4 +87,13 @@ A continuación hay una simple comparativa de los comandos indicados en esta gu�
 
 
 ---
+
+## 7. Otros comandos interesantes
+
+Hay otros comandos que nos pueden ayudar a encontrar ayuda cuando estamos atascados en la línea de comandos.
+  * **apropos**: sirve para encontrar comandos relacionados sin saber el nombre exacto. La sintaxis sería ```apropos [palabra clave]```
+  * **whatis**1. muestra una sola línea explicando la función de un comando. Es útil para identificar rápidamente su propósito. La sintaxis sería ```whatis [nombre_comando]```
+
+---
+
 ### Autor: José Ramón
