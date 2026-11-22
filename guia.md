@@ -8,9 +8,9 @@
   - [4. Comando info](#4-comando-info)
   - [5. Comando whatis](#5-comando-whatis)
   - [6. Comando apropos](#6-comando-apropos)
-  - [7. Comparativa de comandos ](#7-comparativa-de-comandos)
+  - [7. Comparativa de comandos](#7-comparativa-de-comandos)
   - [8. Recursos adicionales](#8-recursos-adicionales)
-  - [9. Información del proyecto]()
+  - [9. Información del proyecto](#9-información-del-proyecto)
 ---
   
 ## 1. Introducción
