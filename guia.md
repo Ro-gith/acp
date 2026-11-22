@@ -6,9 +6,10 @@
   - [2. Comando man](#2-comando-man)
   - [3. Comando --help](#3-comando-help)
   - [4. Comando info](#4-comando-info)
-  - [5. Comparativa de comandos](#5-comparativa-de-comandos)
-  - [6. Recursos adicionales](#6-recursos-adicionales)
-  - [7. Otros comandos interesantes](#7-otros-comandos-interesantes)
+  - [5. Comando whatis](#5-comando-whatis)
+  - [6. Comando apropos](#6-comando-apropos)
+  - [7. Comparativa de comandos ](#7-comparativa-de-comandos)
+  - [8. Recursos adicionales](#8-recursos-adicionales)
 ---
   
 ## 1. Introducción
@@ -65,7 +66,29 @@ La sintaxis de este comando sería:
 
 
 ---
-## 5. Comparativa de comandos
+## 5. Comando whatis
+
+Muestra una sola línea explicando la función de un comando. Es útil para identificar rápidamente su propósito.
+La sintaxis sería ```whatis [nombre_comando]```.
+**whatis mkdir** 
+![whatis mkdir](Imágenes/whatis%20mkdir.png)
+
+
+---
+
+## 6. Comando apropos
+
+Sirve para encontrar comandos relacionados sin saber el nombre exacto. 
+La sintaxis sería ```apropos [palabra clave]```.
+**apropos mkdir**
+![apropos mkdir](Imágenes/apropos%20mkdir.png)
+
+
+
+
+---
+
+## 7. Comparativa de comandos
 
 A continuación hay una simple comparativa de los comandos indicados en esta guía:
 
@@ -76,11 +99,10 @@ A continuación hay una simple comparativa de los comandos indicados en esta gu�
 |info|info mkdir|alta|
 |whatis|whatis mkdir|muy baja|
 |apropos|apropos mkdir|muy baja|
-
-
 ---
 
-## 6. Recursos Adicionales
+
+## 8. Recursos Adicionales
 
 *  [Foro de linux.org](https://www.linux.org/forums/#linux-tutorials.122)
 *  [Wikipedia: Linux](https://es.wikipedia.org/wiki/GNU/Linux)
@@ -92,10 +114,11 @@ A continuación hay una simple comparativa de los comandos indicados en esta gu�
 
 ## 7. Otros comandos interesantes
 
-Hay otros comandos que nos pueden ayudar a encontrar ayuda cuando estamos atascados en la línea de comandos.
-  * **apropos**: sirve para encontrar comandos relacionados sin saber el nombre exacto. La sintaxis sería ```apropos [palabra clave]```
-  * **whatis**: muestra una sola línea explicando la función de un comando. Es útil para identificar rápidamente su propósito. La sintaxis sería ```whatis [nombre_comando]```
+
 
 ---
 
 ### Autor: José Ramón
+
+
+[def]: Imagenes/whatis_mkdir.png
