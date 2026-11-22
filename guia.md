@@ -74,6 +74,8 @@ A continuación hay una simple comparativa de los comandos indicados en esta gu�
 | man| man mkdir | media |
 |help|mkdir --help|baja|
 |info|info mkdir|alta|
+|whatis|whatis mkdir|muy baja|
+|apropos|apropos mkdir|muy baja|
 
 
 ---
@@ -92,7 +94,7 @@ A continuación hay una simple comparativa de los comandos indicados en esta gu�
 
 Hay otros comandos que nos pueden ayudar a encontrar ayuda cuando estamos atascados en la línea de comandos.
   * **apropos**: sirve para encontrar comandos relacionados sin saber el nombre exacto. La sintaxis sería ```apropos [palabra clave]```
-  * **whatis**1. muestra una sola línea explicando la función de un comando. Es útil para identificar rápidamente su propósito. La sintaxis sería ```whatis [nombre_comando]```
+  * **whatis**: muestra una sola línea explicando la función de un comando. Es útil para identificar rápidamente su propósito. La sintaxis sería ```whatis [nombre_comando]```
 
 ---
 
