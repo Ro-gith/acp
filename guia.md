@@ -10,6 +10,7 @@
   - [6. Comando apropos](#6-comando-apropos)
   - [7. Comparativa de comandos ](#7-comparativa-de-comandos)
   - [8. Recursos adicionales](#8-recursos-adicionales)
+  - [9. Información del proyecto]()
 ---
   
 ## 1. Introducción
@@ -127,6 +128,15 @@ A continuación hay una simple comparativa de los comandos indicados en esta gu�
 
 
 ---
+
+## 9. Información del proyecto
+
+Esta documentación se ha elaborado utilizando **Markdown**.
+El control de versiones se realiza mediante **Git**
+y el repositorio remoto se encuentra alojado en **GitHub**.
+
+---
+
 
 ### Autor: José Ramón
 
