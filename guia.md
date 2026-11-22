@@ -38,7 +38,7 @@ A continuación se ponen 3 ejemplos de este comando:
 
 1. **man mkdir** 
 
-![man mkdir](Imágenes/man%20mkdir.png)
+![man mkdir](imagenes/man_mkdir.png)
 
 2. **man ls** 
 
@@ -53,7 +53,7 @@ Este comando también muestra ayuda, pero es una ayuda más concisa o breve. Apo
 
 1. **mkdir --help** 
 
-![mkdir --help](Imágenes/mkdir%20help.png)
+![mkdir --help](imagenes/mkdir_help.png)
 
 2. **ls --help** 
 
@@ -69,7 +69,7 @@ Las páginas que proporciona el comando info son más detalladas que las página
 La sintaxis de este comando sería:
 1. **info mkdir** 
 
-![info mkdir](Imágenes/info%20mkdir.png)
+![info mkdir](imagenes/info_mkdir.png)
 
 2. **info ls** 
 
@@ -85,7 +85,7 @@ Muestra una sola línea explicando la función de un comando. Es útil para iden
 La sintaxis sería ```whatis [nombre_comando]```
 
 **whatis mkdir** 
-![whatis mkdir](Imágenes/whatis%20mkdir.png)
+![whatis mkdir](imagenes/whatis_mkdir.png)
 
 
 ---
@@ -97,7 +97,7 @@ Sirve para encontrar comandos relacionados sin saber el nombre exacto.
 La sintaxis sería ```apropos [palabra clave]```
 
 **apropos mkdir**
-![apropos mkdir](Imágenes/apropos%20mkdir.png)
+![apropos mkdir](imagenes/apropos_mkdir.png)
 
 
 
