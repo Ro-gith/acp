@@ -11,6 +11,7 @@
   - [7. Comparativa de comandos](#7-comparativa-de-comandos)
   - [8. Recursos adicionales](#8-recursos-adicionales)
   - [9. Información del proyecto](#9-información-del-proyecto)
+  - [10. Próximas mejoras](#10-próximas-mejoras)
 ---
   
 ## 1. Introducción
@@ -134,6 +135,16 @@ A continuación hay una simple comparativa de los comandos indicados en esta gu�
 Esta documentación se ha elaborado utilizando **Markdown**.
 El control de versiones se realiza mediante **Git**
 y el repositorio remoto se encuentra alojado en **GitHub**.
+
+---
+
+## 10. Próximas mejoras
+
+Estas son algunas de las posibles mejoras que se pueden implementar próximamente:
+  * añadir más comandos de ayuda
+  * explicar opciones de los comandos
+  * extender la guía a otros tipos de comandos
+  * hacer esta guía en grupo usando github
 
 ---
 
