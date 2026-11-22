@@ -36,8 +36,12 @@ El único propósito de usar `man mkdir` , `mkdir --help` e `info mkdir` es para
 Este comando sirve para obtener información sobre un comando, abriendo la página del manual. Para salir del manual hay que pulsar la tecla **Q**.
 A continuación se ponen 3 ejemplos de este comando:
 
-1. **man mkdir** ![man mkdir](Imágenes/man%20mkdir.png)
+1. **man mkdir** 
+
+![man mkdir](Imágenes/man%20mkdir.png)
+
 2. **man ls** 
+
 3. **man cd** 
 
  
@@ -47,8 +51,12 @@ A continuación se ponen 3 ejemplos de este comando:
 
 Este comando también muestra ayuda, pero es una ayuda más concisa o breve. Aporta algunas instrucciones breves sobre el comando que queremos consultar.
 
-1. **mkdir --help** ![mkdir --help](Imágenes/mkdir%20help.png)
+1. **mkdir --help** 
+
+![mkdir --help](Imágenes/mkdir%20help.png)
+
 2. **ls --help** 
+
 3. **cd --help** 
 
 ---
@@ -59,8 +67,12 @@ Este comando también muestra ayuda, pero es una ayuda más concisa o breve. Apo
 
 Las páginas que proporciona el comando info son más detalladas que las páginas del manual, y por supuesto que las de help. Aportan mucha información.
 La sintaxis de este comando sería:
-1. **info mkdir** ![info mkdir](Imágenes/info%20mkdir.png)
+1. **info mkdir** 
+
+![info mkdir](Imágenes/info%20mkdir.png)
+
 2. **info ls** 
+
 3. **info cd** 
 
 
@@ -69,7 +81,9 @@ La sintaxis de este comando sería:
 ## 5. Comando whatis
 
 Muestra una sola línea explicando la función de un comando. Es útil para identificar rápidamente su propósito.
-La sintaxis sería ```whatis [nombre_comando]```.
+
+La sintaxis sería ```whatis [nombre_comando]```
+
 **whatis mkdir** 
 ![whatis mkdir](Imágenes/whatis%20mkdir.png)
 
@@ -79,7 +93,9 @@ La sintaxis sería ```whatis [nombre_comando]```.
 ## 6. Comando apropos
 
 Sirve para encontrar comandos relacionados sin saber el nombre exacto. 
-La sintaxis sería ```apropos [palabra clave]```.
+
+La sintaxis sería ```apropos [palabra clave]```
+
 **apropos mkdir**
 ![apropos mkdir](Imágenes/apropos%20mkdir.png)
 
@@ -112,13 +128,6 @@ A continuación hay una simple comparativa de los comandos indicados en esta gu�
 
 ---
 
-## 7. Otros comandos interesantes
-
-
-
----
-
 ### Autor: José Ramón
 
 
-[def]: Imagenes/whatis_mkdir.png
