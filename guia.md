@@ -13,7 +13,7 @@
   - [9. Información del proyecto](#9-información-del-proyecto)
   - [10. Próximas mejoras](#10-próximas-mejoras)
   - [11. Recomendaciones de seguridad](#11-recomendaciones-de-seguridad)
-  - [Recomendaciones de seguridad 2](#12-recomendaciones-de-seguridad-2)
+  - [12. Recomendaciones de seguridad 2](#12-recomendaciones-de-seguridad-2)
 ---
   
 ## 1. Introducción
