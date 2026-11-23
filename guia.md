@@ -160,7 +160,7 @@ Estas son algunas de las posibles mejoras que se pueden implementar próximament
 
 ---
 
-# 12. Recomendaciones de seguridad 2
+## 12. Recomendaciones de seguridad 2
 
   * usar contraseñas seguras
   * usar doble factor de autenticación
