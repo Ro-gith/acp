@@ -12,6 +12,7 @@
   - [8. Recursos adicionales](#8-recursos-adicionales)
   - [9. Información del proyecto](#9-información-del-proyecto)
   - [10. Próximas mejoras](#10-próximas-mejoras)
+  - [11. Recomendaciones de seguridad](#11-recomendaciones-de-seguridad)
   
 ---
   
@@ -149,9 +150,14 @@ Estas son algunas de las posibles mejoras que se pueden implementar próximament
 
 ---
 
+## 11. Recomendaciones de seguridad
+
+  * usar contraseñas seguras 
+  * usar doble factor de autenticación
+  * encriptar el disco de almacenamiento
+  * hacer copias de seguridad del disco 
 
   
-
 ---
 
 ### Autor: José Ramón
