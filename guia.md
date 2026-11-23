@@ -156,6 +156,7 @@ Estas son algunas de las posibles mejoras que se pueden implementar próximament
   * usar doble factor de autenticación
   * encriptar el disco de almacenamiento
   * hacer copias de seguridad del disco
+  * cambiar la contraseña con regularidad
   
 
 ---
